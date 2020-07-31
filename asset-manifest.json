@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1db451a6.chunk.css",
-    "main.js": "/static/js/main.252b96d9.chunk.js",
-    "main.js.map": "/static/js/main.252b96d9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.be3a8572.js",
-    "runtime-main.js.map": "/static/js/runtime-main.be3a8572.js.map",
-    "static/js/2.490fefbf.chunk.js": "/static/js/2.490fefbf.chunk.js",
-    "static/js/2.490fefbf.chunk.js.map": "/static/js/2.490fefbf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7c6c9bea810e7560a7e9d0e52d067b6e.js": "/precache-manifest.7c6c9bea810e7560a7e9d0e52d067b6e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1db451a6.chunk.css.map": "/static/css/main.1db451a6.chunk.css.map",
-    "static/js/2.490fefbf.chunk.js.LICENSE.txt": "/static/js/2.490fefbf.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/static/media/logo.123ba1a1.png"
+    "main.css": "/Testing-React-Redux-with-Jest-and-Enzyme/static/css/main.1db451a6.chunk.css",
+    "main.js": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/main.252b96d9.chunk.js",
+    "main.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/main.252b96d9.chunk.js.map",
+    "runtime-main.js": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/runtime-main.ac7a2b92.js",
+    "runtime-main.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/runtime-main.ac7a2b92.js.map",
+    "static/js/2.490fefbf.chunk.js": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.490fefbf.chunk.js",
+    "static/js/2.490fefbf.chunk.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.490fefbf.chunk.js.map",
+    "index.html": "/Testing-React-Redux-with-Jest-and-Enzyme/index.html",
+    "precache-manifest.8c129bec6f126809c6f4efd5930bffbf.js": "/Testing-React-Redux-with-Jest-and-Enzyme/precache-manifest.8c129bec6f126809c6f4efd5930bffbf.js",
+    "service-worker.js": "/Testing-React-Redux-with-Jest-and-Enzyme/service-worker.js",
+    "static/css/main.1db451a6.chunk.css.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/css/main.1db451a6.chunk.css.map",
+    "static/js/2.490fefbf.chunk.js.LICENSE.txt": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.490fefbf.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Testing-React-Redux-with-Jest-and-Enzyme/static/media/logo.123ba1a1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.be3a8572.js",
+    "static/js/runtime-main.ac7a2b92.js",
     "static/js/2.490fefbf.chunk.js",
     "static/css/main.1db451a6.chunk.css",
     "static/js/main.252b96d9.chunk.js"
