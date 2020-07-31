@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Testing-React-Redux-with-Jest-and-Enzyme/static/css/main.1db451a6.chunk.css",
+    "main.js": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/main.43c1663e.chunk.js",
+    "main.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/main.43c1663e.chunk.js.map",
+    "runtime-main.js": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/runtime-main.ac7a2b92.js",
+    "runtime-main.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/runtime-main.ac7a2b92.js.map",
+    "static/js/2.490fefbf.chunk.js": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.490fefbf.chunk.js",
+    "static/js/2.490fefbf.chunk.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.490fefbf.chunk.js.map",
+    "index.html": "/Testing-React-Redux-with-Jest-and-Enzyme/index.html",
+    "precache-manifest.e282cba1591b395465e399e5de97e4eb.js": "/Testing-React-Redux-with-Jest-and-Enzyme/precache-manifest.e282cba1591b395465e399e5de97e4eb.js",
+    "service-worker.js": "/Testing-React-Redux-with-Jest-and-Enzyme/service-worker.js",
+    "static/css/main.1db451a6.chunk.css.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/css/main.1db451a6.chunk.css.map",
+    "static/js/2.490fefbf.chunk.js.LICENSE.txt": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.490fefbf.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Testing-React-Redux-with-Jest-and-Enzyme/static/media/logo.123ba1a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac7a2b92.js",
+    "static/js/2.490fefbf.chunk.js",
+    "static/css/main.1db451a6.chunk.css",
+    "static/js/main.43c1663e.chunk.js"
+  ]
+}
