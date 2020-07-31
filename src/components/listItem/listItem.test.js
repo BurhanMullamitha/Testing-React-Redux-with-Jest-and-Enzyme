@@ -63,7 +63,7 @@ describe('ListItem Component', () => {
             wrapper = shallow(<ListItem {...props} />);
         });
 
-        it('Should not render', () => {
+        it('Should not render component', () => {
 
             const component = findByTestAttr(wrapper, 'listItemComponent');
             expect(component.length).toBe(0);
