@@ -25,6 +25,6 @@ jobs:
           npm run deploy
         env:
           user_name: 'github-actions[bot]'
-          user_emai: 'github-actions[bot]@users.noreply.github.com'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
