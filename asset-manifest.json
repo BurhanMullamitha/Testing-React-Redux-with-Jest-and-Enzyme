@@ -5,18 +5,18 @@
     "main.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/main.d27bb82e.chunk.js.map",
     "runtime-main.js": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/runtime-main.ac7a2b92.js",
     "runtime-main.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/runtime-main.ac7a2b92.js.map",
-    "static/js/2.73a37d54.chunk.js": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.73a37d54.chunk.js",
-    "static/js/2.73a37d54.chunk.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.73a37d54.chunk.js.map",
+    "static/js/2.a0ed782a.chunk.js": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.a0ed782a.chunk.js",
+    "static/js/2.a0ed782a.chunk.js.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.a0ed782a.chunk.js.map",
     "index.html": "/Testing-React-Redux-with-Jest-and-Enzyme/index.html",
-    "precache-manifest.e844e12dd8242ef6c6311734ea3b4790.js": "/Testing-React-Redux-with-Jest-and-Enzyme/precache-manifest.e844e12dd8242ef6c6311734ea3b4790.js",
+    "precache-manifest.16b7ceeeef018ea9e2aa80d6e5d907c4.js": "/Testing-React-Redux-with-Jest-and-Enzyme/precache-manifest.16b7ceeeef018ea9e2aa80d6e5d907c4.js",
     "service-worker.js": "/Testing-React-Redux-with-Jest-and-Enzyme/service-worker.js",
     "static/css/main.1db451a6.chunk.css.map": "/Testing-React-Redux-with-Jest-and-Enzyme/static/css/main.1db451a6.chunk.css.map",
-    "static/js/2.73a37d54.chunk.js.LICENSE.txt": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.73a37d54.chunk.js.LICENSE.txt",
+    "static/js/2.a0ed782a.chunk.js.LICENSE.txt": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.a0ed782a.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/Testing-React-Redux-with-Jest-and-Enzyme/static/media/logo.123ba1a1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ac7a2b92.js",
-    "static/js/2.73a37d54.chunk.js",
+    "static/js/2.a0ed782a.chunk.js",
     "static/css/main.1db451a6.chunk.css",
     "static/js/main.d27bb82e.chunk.js"
   ]

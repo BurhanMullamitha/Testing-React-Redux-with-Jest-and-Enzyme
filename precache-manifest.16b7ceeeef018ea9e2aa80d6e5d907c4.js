@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e48a708f3b8df3f1c27548552f90e495",
+    "revision": "16b50c01fdaab65cc6b3016904eb74f1",
     "url": "/Testing-React-Redux-with-Jest-and-Enzyme/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Testing-React-Redux-with-Jest-and-Enzyme/static/css/main.1db451a6.chunk.css"
   },
   {
-    "revision": "153310f79142cbb49cb3",
-    "url": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.73a37d54.chunk.js"
+    "revision": "3b4060e9a2600ff445cd",
+    "url": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.a0ed782a.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.73a37d54.chunk.js.LICENSE.txt"
+    "revision": "a64acf8e3ad6aa1497056f0bb9a7ce4f",
+    "url": "/Testing-React-Redux-with-Jest-and-Enzyme/static/js/2.a0ed782a.chunk.js.LICENSE.txt"
   },
   {
     "revision": "7ae54590bfa2fd75939a",
